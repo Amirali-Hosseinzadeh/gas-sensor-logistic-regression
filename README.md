@@ -153,7 +153,7 @@ gas-sensor-logistic-regression/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Amirali-Hosseinzadeh/gas-sensor-logistic-regression.git
 cd gas-sensor-logistic-regression
 ```
 
